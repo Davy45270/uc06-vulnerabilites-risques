@@ -1,2 +1,3 @@
-# uc06-vulnerabilites-risques
-UC06 Vulnérabilités &amp; risques
+# UC06 Vulnérabilités & risques
+
+Use case repo for UC06 Vulnérabilités & risques.
